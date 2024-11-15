@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 2b8433e7c13ff7542b12f0a40eefd084
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots.001
+    second: {fileID: 2100000, guid: f90060d4d379266439b368a2683ab67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots2.001
+    second: {fileID: 2100000, guid: 39ec1c8a5029f7349ab61abfaee29cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Borracha
+    second: {fileID: 2100000, guid: 463a71b1e2121b249893c5a11ae011df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye.001
+    second: {fileID: 2100000, guid: ef7f854f447a4ba42b89c23480000528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FarolFrente
+    second: {fileID: 2100000, guid: 24656698bf0da524da9241dd9c2bc799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas
+    second: {fileID: 2100000, guid: f8883077feb54844291e2995a6e466ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.001
+    second: {fileID: 2100000, guid: c388fe9a3a455554f93d05fa4d8b4194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.002
+    second: {fileID: 2100000, guid: 368627b47035ea947b60f4ca92825cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.004
+    second: {fileID: 2100000, guid: 02be82c564473254886721dbdddfeda9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.005
+    second: {fileID: 2100000, guid: 5ff85d2e0c2c04143bcabf7116c768e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.007
+    second: {fileID: 2100000, guid: 6a3d2e3dfa9cc7140acfd4155f1395e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.008
+    second: {fileID: 2100000, guid: 327b8cb59e6a0e0428027717ba848baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.010
+    second: {fileID: 2100000, guid: c769fa49f4a0dc54e818f5264db68784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.011
+    second: {fileID: 2100000, guid: dd6267880976818438d938b6ec630afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair.001
+    second: {fileID: 2100000, guid: 8333781e5bcbee64a8ac5c479da7154a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head.001
+    second: {fileID: 2100000, guid: 14cf4fe4e57df8048929211bbc3eb718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira
+    second: {fileID: 2100000, guid: 73b37eab6d5fe7d4b8337c14456de85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.001
+    second: {fileID: 2100000, guid: d031bd1f1b4fa0a44b427f380169eefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.002
+    second: {fileID: 2100000, guid: 9d1ed9a040f475e4eb26ff37ac6f20d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.004
+    second: {fileID: 2100000, guid: 4d5eba1f223a17d45b92922d97076c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.005
+    second: {fileID: 2100000, guid: 9641e37140542f3418e0a65148d538e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.007
+    second: {fileID: 2100000, guid: 496337dc9d07fa647b126b52187c9d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.008
+    second: {fileID: 2100000, guid: f00f96971c4fe6449a3998d3fa5b9d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.010
+    second: {fileID: 2100000, guid: 0fc4a923498fcea4eb968fe3656dbbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira.011
+    second: {fileID: 2100000, guid: 692ea01d9a275d44b87a295b970469c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main
+    second: {fileID: 2100000, guid: 3a9f326e72c452046941bbe0e1f6414e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: a39cdac342c041d45b4d3608d9210190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8e0f0702bfe424e44b3caac9c97a1437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: dba4191e29134de43b89ee38eb20407a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 42f7a495c07f2a14191070050837011e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 5afe397285f8ef44fa6f4e1e750297de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants.001
+    second: {fileID: 2100000, guid: 0688cf5e189812745b35469fa569f386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parachoque
+    second: {fileID: 2100000, guid: 9c34d59ba29b54647be83cdae2fec149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra
+    second: {fileID: 2100000, guid: ad16fd336a5e4fe4b9a397943d3473d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra.004
+    second: {fileID: 2100000, guid: 8315c9bf37ed7914b8ed1f2429a75c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro
+    second: {fileID: 2100000, guid: 43badffdb8c9bfa408c56c36d9dac598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: antena
+    second: {fileID: 2100000, guid: 9acff0127b8a9a54f8edd2e36639d678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbusto1.001
+    second: {fileID: 2100000, guid: a1908f9b7255d2647a349e815f4a4217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbusto1.003
+    second: {fileID: 2100000, guid: 536d82e3f211b434bb04e6c049a36200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbusto3.001
+    second: {fileID: 2100000, guid: 9cf940a48d9cee94eb088d9922f4a82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbusto3.003
+    second: {fileID: 2100000, guid: 350578265d83d6c48ae5e6a1d4e1610c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barro
+    second: {fileID: 2100000, guid: 6c53545a97083cc4881789dce9415119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cap.002
+    second: {fileID: 2100000, guid: 9892e5b93ee68b04289992e279d9f8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt
+    second: {fileID: 2100000, guid: 46eb4bce37a3b8442bc17a027ec4f317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nave
+    second: {fileID: 2100000, guid: 7347c24616c5f4a4a8eb6867abb1136b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: path
+    second: {fileID: 2100000, guid: 8b6ac76f21cdf0b459ce00018b27d617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torso.001
+    second: {fileID: 2100000, guid: c9e1bb4c95ad7ef4cbefef6ebd4c1d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tronco1
+    second: {fileID: 2100000, guid: 484dab561a19d8d488b4619039b08ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tronco2
+    second: {fileID: 2100000, guid: 835b06b548569224db54141fcc6d412b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidro
+    second: {fileID: 2100000, guid: 878cf9f71452c0b40a03d873e2122878, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
